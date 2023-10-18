@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "category": [],
+  "products" : [
+    {
+        "name" : "Trimmers",
+        "price" : 339,
+        "qty" : 1,
+        "image" : "https://rukminim2.flixcart.com/image/416/416/xif0q/trimmer/k/7/v/1-7-mm-bt1233-18-stainless-steel-cordless-philips-original-imagzgwgrdtxhgbu.jpeg?q=70",
+        "category" : "eletronics",
+        "id" : 1
+    },
+    {
+      "name" : "keyboard",
+      "price" : 229,
+      "qty" : 1,
+      "image" : "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/desktop-keyboard/3/c/1/150-hp-original-imaghydff9ttwzex.jpeg?q=70",
+      "category" : "eletronics",
+      "id" : 2
+    },
+    {
+      "name" : "printer",
+      "price" : 10190,
+      "qty" : 1,
+      "image" : "https://rukminim2.flixcart.com/image/416/416/k4a7c7k0/printer/y/j/z/canon-e3370-original-imafn2wyyxjjvzd6.jpeg?q=70",
+      "category" : "eletronics",
+      "id" : 2
+    }
+  ]
+}
